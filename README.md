@@ -37,16 +37,7 @@
   BMI calculator with responsive design and clean UI.
 
 - 🧑‍💼 [Employee Management System](https://github.com/ZarhanMemon/CODES/tree/main/Main%20Project/Employee_Management_System) 
-  Full-stack app using MERN stack to manage employee records.
+   Full-stack app using MERN stack to manage employee records.
 
-
----
-
-### 📊 GitHub Stats
-
-![Zarhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zarhan-dev&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zarhan-dev&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zarhan-dev&layout=compact&theme=tokyonight)
-
-
+ 
 
