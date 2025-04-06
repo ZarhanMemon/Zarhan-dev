@@ -30,13 +30,13 @@
 
 ### 🚀 Featured Projects
 
-- 📝 [Todo App](https://github.com/Zarhan-dev/todo-app)  
+- 📝 [Todo App](https://github.com/ZarhanMemon/CODES/tree/main/Mini%20Project/WEB%20project/Todo_list_react)
   A simple todo app built using React and localStorage.
 
-- 📊 [BMI Calculator](https://github.com/Zarhan-dev/bmi-calculator)  
+- 📊 [BMI Calculator](https://github.com/ZarhanMemon/CODES/tree/main/Mini%20Project/WEB%20project/BMI_calculator)  
   BMI calculator with responsive design and clean UI.
 
-- 🧑‍💼 [Employee Management System](https://github.com/Zarhan-dev/employee-management-system)  
+- 🧑‍💼 [Employee Management System](https://github.com/ZarhanMemon/CODES/tree/main/Main%20Project/Employee_Management_System) 
   Full-stack app using MERN stack to manage employee records.
 
 
@@ -44,11 +44,9 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zarhan-dev&show_icons=true&theme=tokyonight" alt="Zarhan's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zarhan-dev&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarhan-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+![Zarhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zarhan-dev&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zarhan-dev&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zarhan-dev&layout=compact&theme=tokyonight)
 
 
 
