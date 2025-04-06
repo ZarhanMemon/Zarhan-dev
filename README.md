@@ -22,7 +22,7 @@
 ---
 
 ### 📫 Connect with Me
-- Email: memonzarhan9@gmail.com
+- Email: memonzarhan99@gmail.com
 - LinkedIn: [Zarhan Memon](https://www.linkedin.com/in/zarhan-memon-bb2b5435a/)
 - Portfolio: Coming soon...
 
@@ -30,13 +30,13 @@
 
 ### 🚀 Featured Projects
 
-- 📝 [Todo App](https://github.com/ZarhanMemon/CODES/tree/main/Mini%20Project/WEB%20project/Todo_list_react)
+- 📝 [Todo App](https://github.com/ZarhanMemon/CODES/tree/main/Mini%20Project/WEB%20project/Todo_list_react)<br>
   A simple todo app built using React and localStorage.
 
-- 📊 [BMI Calculator](https://github.com/ZarhanMemon/CODES/tree/main/Mini%20Project/WEB%20project/BMI_calculator)  
+- 📊 [BMI Calculator](https://github.com/ZarhanMemon/CODES/tree/main/Mini%20Project/WEB%20project/BMI_calculator)  <br>
   BMI calculator with responsive design and clean UI.
 
-- 🧑‍💼 [Employee Management System](https://github.com/ZarhanMemon/CODES/tree/main/Main%20Project/Employee_Management_System) 
+- 🧑‍💼 [Employee Management System](https://github.com/ZarhanMemon/CODES/tree/main/Main%20Project/Employee_Management_System) <br>
    Full-stack app using MERN stack to manage employee records.
 
  
